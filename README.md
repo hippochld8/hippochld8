@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,60:0284C7,100:6366F1&section=header&text=Irghi%20Satya%20Priangga&fontColor=F8FAFC&fontSize=34&fontAlignY=40&desc=UI%2FUX%20Designer%20%26%20Front-End%20Developer&descAlignY=62&descSize=15" alt="header" />
+<img src="https://raw.githubusercontent.com/hippochld8/hippochld8/main/assets/header.svg" alt="Irghi Satya Priangga" width="100%" />
 
 <a href="https://portofolio-irghi.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=420&height=40&lines=Craft.;Code.;Create." alt="Craft. Code. Create." />
@@ -64,8 +64,18 @@ I design and build clean, thoughtful digital experiences, and explore visual sto
 
 <br /><br />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hippochld8/hippochld8/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hippochld8/hippochld8/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/hippochld8/hippochld8/output/github-snake.svg" />
+</picture>
+
+<br /><br />
+
 <a href="https://portofolio-irghi.vercel.app"><b>Let's build something together →</b></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:6366F1,60:0284C7,100:0F172A&section=footer" alt="footer" />
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/hippochld8/hippochld8/main/assets/footer.svg" alt="footer" width="100%" />
 
 </div>
